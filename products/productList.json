@@ -1,0 +1,12 @@
+[
+    {
+        "name": "dog 1",
+        "description": "stupid dog",
+        "image":"/home/victor/react_workspace/shopping_website/products/dog1.jpg"
+    },
+    {
+        "name": "dog 2",
+        "description": "idiot dog",
+        "image":"/home/victor/react_workspace/shopping_website/products/dog2.jpg"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {   
+        "id": 1,
+        "name": "Germen Shepard",
+        "description": "The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. According to the FCI, the breed's English language name is German Shepherd Dog",
+        "price": 1000,
+        "image":"/images/german.jpg"
+    },
+    {   
+        "id":2,
+        "name": "Bulldog",
+        "description": "The Bulldog, also known as the English Bulldog or British Bulldog, is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose. The Kennel Club, the American Kennel Club, and the United Kennel Club oversee breeding",
+        "price": 500,
+        "image":"/images/bulldog.jpg"
+    },
+    {   
+        "id":3,
+        "name": "Poodle",
+        "description": "The Poodle is a dog breed that comes in three varieties: Standard Poodle, Miniature Poodle, and Toy Poodle. The origin of the breed is still discussed, with a prominent dispute over whether the poodle descends from Germany as a type of water dog, or from the French Barbet.",
+        "price": 780,
+        "image":"/images/poodle.jpeg"
+    },
+    {   
+        "id":4,
+        "name": "Labrador Retriever",
+        "description": "The Labrador Retriever, often abbreviated to Labrador, is a breed of retriever-gun dog from the United Kingdom that was developed from imported Canadian fishing dogs. The Labrador is one of the most popular dog breeds in a number of countries in the world, particularly in the western world",
+        "price": 480,
+        "image":"/images/lab.jpg"
+    },
+    {   
+        "id":5,
+        "name": "Beagle",
+        "description": "The beagle is a breed of small hound that is similar in appearance to the much larger foxhound. The beagle is a scent hound, developed primarily for hunting hare",
+        "price": 990,
+        "image":"/images/beagle.jpg"
+    }
+]

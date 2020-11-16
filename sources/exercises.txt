@@ -1,0 +1,40 @@
+1) Two Clocks
+    a) Create a new src folder and index.js
+    b) Create a componet with state that holds the current Date
+        -updates once a second
+    c) Create a functional component that will render its props
+    d) in the parent Compoent, render the child component twice
+        -Once to dispaly the Date  
+        -Once to display the time
+    e) Optional
+        - if the minutes are even, make the time text red
+
+2) Tracker and Checker
+    a) Create a componet called "Tracker"
+        -contains a state value called "count"
+        -has buttons for
+            - add one
+            - subtract one
+            - reset the count to 0
+            - multiply by 2
+            - set the count to a random value
+    b) Create a component called "Checker"
+        - is passed a prop called "numberValue"
+        - is passed a prop called "count"
+        - dispalys "numbervalue"
+        - displays if "numberValue" or "count" is higher
+    c) Render multiple instances of Checker in Tracker, each with a different "numberValue"
+
+3) useFonts
+    a) Create a component called FontSize. 
+    b) It will contain a <p> tag with the text “This paragraph has a font-size of ____ px”. 
+    c) Have two buttons, one makes the font bigger by 1 px, the other will decrease it by 1px. 
+    d) Keep track of the font size with the state and change it when buttons are clicked. 
+    e) Use hooks to change for any changes to the state.
+
+4) Shopping List
+    a) Set up a component that lists a variety of shopping items. 
+    b) Create another component that contains a form that adds elements to this list.  
+    c) Remember to add keys for each item and lift the state to pass information from the form to shopping list component. 
+    d) optional: 
+        - Cross off items off in the list when clicking on a checkbox.
